@@ -1,0 +1,8 @@
+base_dir: "~/Texts"
+daily_note_dir: "1.Daily-notes"
+inbox_dir: "0.Inbox"
+editor: "nvim"
+with_always_open_editor: true
+editor_option: ""
+daily_template: {}
+inbox_template: {}
