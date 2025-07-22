@@ -4,5 +4,6 @@ inbox_dir: "0.Inbox"
 editor: "nvim"
 with_always_open_editor: true
 editor_option: ""
-daily_template: {}
+daily_template: 
+  "happiness_score" : 0
 inbox_template: {}
